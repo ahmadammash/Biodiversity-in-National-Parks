@@ -1,2 +1,3 @@
 # Biodiversity-in-National-Parks
-Statistical testing on a dataset from national parks to determine which species are at the highest risk of being endangered.
+This project uses the species_info csv file to understand what species are present in our national parks. The dataset presents the species category name, the species scientific name, the species common name and their conservation status.
+After reshaping the data to make it ready for producing visualizations, insights were generated as regards to what percent of each species is considered to be endangered. Then, significance tests were performed to check whether the difference between the percent_protected values of different species is considered significant or not. It turns out that mammals and birds are equally endangered while reptiles are considered to be safe.
